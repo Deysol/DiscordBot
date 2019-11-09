@@ -1,0 +1,10 @@
+{
+  "prefix": "f!",
+  "logsChannel": "《🤖📄》bot-logs",
+  "reportsChannel": "《❗》user-report",
+
+  "activity": {
+    "streaming": false,
+    "game": "f!help for help"
+  }
+}
