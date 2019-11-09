@@ -1,28 +1,6 @@
-{{
+{
   "name": "Furious Bot",
   "version": "1.1.2",
   "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
   "main": "index.js",
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Deysol/discordbot"
-  },
-  "keywords": [
-    "heroku",
-    "discord.js"
-  ],
-  "author": "Swofty",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/deysol/discordbot/issues"
-  },
-  "homepage": "https://github.com/deysol/discordbot#readme",
-  "dependencies": {
-    "discord.js": "^11.3.0"
-  }
-}
+  };
