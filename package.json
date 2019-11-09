@@ -2,7 +2,7 @@
   "name": "Furious Bot",
   "version": "1.0.0",
   "description": "F",
-  "main": "bot.js",
+  "main": "index.js",
   "author": "Swofty",
   "dependencies": {
     "discord.io": "^2.5.3",
