@@ -5,5 +5,4 @@
 "main": "index.js",
 "author": "Swofty",
 "dependencies": {}
-"start": "node index.js"
 }
