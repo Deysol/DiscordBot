@@ -77,10 +77,11 @@ client.on('message', message=> {
 
 // Other
 client.on('message', message => {
-        if (message.channel.id === '642324102178275328') {
+        if (message.channel.id === '640071369673146368') {
               message.react("👍");
               setTimeout(function() {
                 }, 10000);
               message.react("👎");
              }
 });
+client.login(process.env.TOKEN);
