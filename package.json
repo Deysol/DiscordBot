@@ -1,6 +1,8 @@
 {
-  "name": "Furious Bot",
-  "version": "1.1.2",
-  "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
-  "main": "index.js",
-  };
+"name": " Furious Bot",
+"version": "1.2.1",
+"description": "Furious Bot",
+"main": "index.js",
+"author": "Swofty",
+"dependencies": {}
+}
